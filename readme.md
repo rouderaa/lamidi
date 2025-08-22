@@ -6,7 +6,7 @@ A bidirectional MIDI bridge implementation for ESP32-S3 that connects USB MIDI t
 <br>
 <img src="assets/interface_close.JPG" alt="Lamidi pcb closeup" style="width: 400px; height: auto;">
 
-A demo of the lamidi project in action can be seen : [Watch on YouTube](https://https://www.youtube.com/watch?v=JaErcQaUoyI)
+A demo of the lamidi project in action can be seen : [Watch on YouTube](https://www.youtube.com/watch?v=JaErcQaUoyI)
 
 ## Features
 
@@ -180,4 +180,5 @@ Contributions are welcome! Please:
 
 - Built with ESP-IDF framework
 - Uses TinyUSB for USB MIDI implementation
+
 - WS2812B LED control for visual feedback
